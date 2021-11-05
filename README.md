@@ -9,6 +9,8 @@ This project is a basic recipe website. It consists of a main index page that co
 - Images
 - Links
 
+A demo of the website can be found [here.](https://thejulianflores.github.io/odin-recipes/)
+
 The secondary purpose of this project is to demonstrate the understanding of how Git and Github work in flow and version control. 
 
 The outline of the project can be referenced [here.](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
