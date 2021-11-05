@@ -1,0 +1,40 @@
+* {
+    background-color: antiquewhite;
+    font-family: "Helvetica", sans-serif;
+}
+
+li {
+}
+
+.section-header {
+    background-color: white;
+    font-size:48px;
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 64px;
+    font-family: "Garamond", serif;
+    color: burlywood;
+}
+
+.descriptions {
+    font-size: 24px;
+    color: brown;
+}
+
+.main-picture {
+    height:auto;
+    width:50%;
+    display: block;
+    margin:auto;
+}
+
+.main-items{
+    font-size:32px;
+}
+
+#main-list{
+    text-align: left;
+}
+
